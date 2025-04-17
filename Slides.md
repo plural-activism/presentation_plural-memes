@@ -5,6 +5,8 @@ theme: ampersand
 
 # Zeta sings the memes of her people
 
+![bg contain left](images/zetaSings1.jpeg)
+
 ---
 
 ![bg contain](images/uniqueBrain.png)
