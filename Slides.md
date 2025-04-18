@@ -91,13 +91,33 @@ imaginary playmates or other fantasy play.
 
 ---
 
-### Dating
+![bg contain](images/Memes/KnowAnotherAlter.png)
+
+---
+
+![bg contain](images/Memes/MorePersonalities.png)
+
+---
+
+<!-- Dating -->
 
 ![bg contain](images/Memes/microdosingPolyamory.png)
 
 ---
 
+![bg contain](images/Memes/anyIntoMe.png)
+
+---
+
 ![bg contain](images/Memes/SystemDating.jpg)
+
+---
+
+![bg contain](images/Memes/QueerPrideSystem.png)
+
+---
+
+![bg contain](images/Memes/UnhealthyCoping.png)
 
 ---
 
@@ -115,6 +135,14 @@ imaginary playmates or other fantasy play.
 
 ---
 
+![bg contain](images/Memes/JanuaryDissociationJune.png)
+
+---
+
+![bg contain](images/Memes/yourSecretsAreDave.jpg)
+
+---
+
 <!-- Dissociation -->
 
 ![bg contain](images/Memes/image0.jpg)
@@ -122,6 +150,65 @@ imaginary playmates or other fantasy play.
 ---
 
 ![bg contain](images/Memes/coffeTub.png)
+
+---
+
+![bg contain](images/Memes/WhatClothesDuck.png)
+
+---
+
+![bg contain](images/Memes/whereAreThePants.png)
+
+---
+
+![bg contain](images/Memes/RiddleOfHowIAm.jpg)
+
+---
+
+![bg contain](images/Memes/Jemarscale.png)
+
+---
+
+![bg contain](images/Memes/WhoIsFronting.png)
+
+---
+
+![bg contain](images/Memes/DissociationWhileTalk.png)
+
+---
+
+![bg contain](images/Memes/DissociationListeningFace.png)
+
+---
+
+![bg contain](images/Memes/DissociationNothingHappened.png)
+
+---
+<!-- Trauma -->
+
+![bg contain](images/Memes/SpiceyMemory.png)
+
+---
+
+![bg contain](images/Memes/TraumaLevels.png)
+
+---
+
+![bg contain](images/Memes/Lore.png)
+
+---
+
+<!-- Creepy alters -->
+
+![bg contain](images/Memes/WeirdAltersInTheForest.jpeg)
+
+---
+
+![bg contain](images/Memes/NotAPerson.png)
+
+---
+
+![bg contain](images/Memes/FightDemons.png)
 
 ---
 
@@ -135,6 +222,18 @@ imaginary playmates or other fantasy play.
 
 ---
 
+![bg contain](images/Memes/zetasTurnOnTheBraincell.png)
+
+---
+
+![bg contain](images/Memes/ImJustCool.jpg)
+
+---
+
+![bg contain](images/Memes/SystemDisagrees.png)
+
+---
+
 ![bg contain](images/Memes/cynicalBitchAndHippie.png)
 
 ---
@@ -142,6 +241,14 @@ imaginary playmates or other fantasy play.
 # Littles
 
 ![bg contain](images/Memes/bareMinimum.png)
+
+---
+
+![bg contain](images/Memes/MatureForYourAge.png)
+
+---
+
+![bg contain](images/Memes/LittleSeesPlushies.png)
 
 ---
 
@@ -153,7 +260,19 @@ imaginary playmates or other fantasy play.
 
 ---
 
+<!-- Nobody aint do the work  -->
+
 ![bg contain](images/Memes/WhoWantsToFrontAtWork.png)
+
+---
+
+![bg contain](images/Memes/WhosTurnIsItAtTheDishes.png)
+
+---
+
+<!-- introject -->
+
+![bg contain](images/Memes/theSplitter.jpg)
 
 ---
 
@@ -161,12 +280,32 @@ imaginary playmates or other fantasy play.
 
 ---
 
-# Decision making
+![bg contain](images/Memes/IntrojectFromMovie.png)
 
 ---
 
-# Funnier as a System®
+![bg contain](images/Memes/playingAsFictive.png)
 
+---
+
+![bg contain](images/Memes/Introject.jpeg)
+
+---
+
+# Decision making
+
+![bg contain](images/Memes/Meeting.png)
+
+---
+
+![bg contain](images/Memes/SwitchesInAndEatFood.png)
+
+---
+
+![bg contain](images/Memes/TakeShirtOf.png)
+
+---
+<!-- Funnier as a system -->
 ![bg contain](images/Memes/funnierasasystem1.jpg)
 
 ---
@@ -175,10 +314,30 @@ imaginary playmates or other fantasy play.
 
 ---
 
+![bg contain](images/Memes/Worksona.jpg)
+
+---
+
+![bg contain](images/Memes/twoSides.jpeg)
+
+---
+
 ![bg contain](images/Memes/copyOfPeopleFunnierAsASystem.jpg)
 
 ---
 
+![bg contain](images/Memes/FunnierAsASystemGroupChat.png)
+
+---
+
+![bg contain](images/Memes/FunnierAsASystemIdentifyYourself.png)
+
+---
+
 ![bg contain](images/Memes/dualityOfBeingASystem.jpg)
+
+---
+
+![bg contain](images/Memes/ProudNotWhereIUsedToBe.png)
 
 ---
